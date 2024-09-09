@@ -168,3 +168,5 @@ mean_value = np.nanmean(data)
 data[np.isnan(data)] = mean_value
 
 print("Data with Missing Values Replaced:\n", data)
+
+print('This is some code that i learned from Chat GPT.')
